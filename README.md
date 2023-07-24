@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alimazhar92
+- 👋 Hi, I’m Azhar
 - 👀 I’m interested in ...growth
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...devops journey
